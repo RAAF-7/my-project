@@ -16,4 +16,4 @@ Next, we would like to have something in *italics* next if you want something in
 - Beef
   
 To make a link you need [] and () for example [google] (https://www.google.ie) Last thing to do is how to include a picture
-! [troll](https://assets-us-01.kc-usercontent.com/95d47d95-36b6-00af-a24c-b886ecdfc4a2/3f59c9c8-4afe-4aee-90f9-58fb6d73dfda/SG_Blog_Managed_campus_S3_j9hqm8xxxnghxnn5cscbbh4v.jpg?w=3840&q=75&lossless=true&auto=format)
+![troll](https://assets-us-01.kc-usercontent.com/95d47d95-36b6-00af-a24c-b886ecdfc4a2/3f59c9c8-4afe-4aee-90f9-58fb6d73dfda/SG_Blog_Managed_campus_S3_j9hqm8xxxnghxnn5cscbbh4v.jpg?w=3840&q=75&lossless=true&auto=format)
